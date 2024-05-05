@@ -1,4 +1,4 @@
-# SITEMA BANCARIO 
+# SISTEMA BANCARIO 
 
 menu = """
 
